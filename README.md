@@ -21,4 +21,5 @@ On Windows, put the exe into System32 and run it from command prompt
 
 ```> Tcp-ping```
 
-![image](https://github.com/Karos0119/Tcp-ping/assets/82679056/0cb4d25d-0afa-4305-8dc5-f000d7f134f5)
+![image](https://github.com/Karos0119/Tcp-ping/assets/82679056/415af172-4da8-412c-b94e-849d82adf949)
+
